@@ -6,3 +6,5 @@
 [1>do_command_return>cd ~; ls]
 9593557488668-6S7A3Y2S
 [2>do_command>say test]
+5576813731774-6S7A3Y2S
+[	]
